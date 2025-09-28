@@ -1,3 +1,4 @@
+```mermaid
 mindmap
   root((Large Language Models))
     (Architecture)
@@ -37,3 +38,4 @@ mindmap
       (Chatbots)
       (Code Assistance)
       (Content Generation)
+```

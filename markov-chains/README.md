@@ -8,7 +8,7 @@ A Markov chain is a stochastic model describing a sequence of possible events in
 
 ### Mathemtical Definition
 
-Given a sequence of random variables $ X_1, X_2, X_3, \ldots $ which exist in the state space $X_i$ the process is a Markov chain if the probability of moving to the next state depends only on the present state and not on the previous states.
+Given a sequence of random variables $X_1, X_2, X_3, \ldots$ which exist in the state space $X_i$ the process is a Markov chain if the probability of moving to the next state depends only on the present state and not on the previous states.
 
 This means that we have:
 
